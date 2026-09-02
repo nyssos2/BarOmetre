@@ -1,0 +1,11 @@
+{
+  "name": "BarOmètre",
+  "short_name": "BarOmètre",
+  "description": "Fenêtres de pêche au bar calculées à partir des marées et du coefficient.",
+  "start_url": "/BarOmetre/",
+  "scope": "/BarOmetre/",
+  "display": "standalone",
+  "background_color": "#0E2233",
+  "theme_color": "#0E2233",
+  "icons": []
+}
